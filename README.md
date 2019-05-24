@@ -114,7 +114,7 @@ Um nerônio _k_ qualquer é visto da seguinte forma:
 
 Este neurônio recebe _j_ entradas e fixamente o valor 1, em seguida, realiza uma combinação linear com os respectiovos pesos e o bias θ, da seguinte forma:
 
-$x = [x_1, x_2, ..., x_j, 1] \quad$ **Vetor de entrada + $x_{j+1}=1$.**
+$ x = [x_1, x_2, ..., x_j, 1] \quad $ **Vetor de entrada + $x_{j+1}=1$.**
 
 $w = [w_{k1},w_{k2}, ..., w_{kj}, θ] \quad$ **Vetor de pesos + bias = $w_{k(j+1)}=θ$.**
 
