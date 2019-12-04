@@ -2,7 +2,7 @@
 # Multilayer Perceptron
 ---
 
-Antonio Moreira - 9779242
+Antonio Moreira - nUSP: 9779242
 
 ## Objetivo
 Desenvolver a arquitetura de uma **rede neural aritifical** usando o modelo **Multilayer Perceptron** que seja capaz de reconhecer dígitos escritos à mão de um *dataset* fornecido.
